@@ -1,0 +1,26 @@
+/*   S T Y L E S  . C S S   */
+*{}
+body{font-family: helvetica, arial, sans-serif; text-align: center;}
+.wrapper{  max-width: 960px;  margin: 0 auto; }
+
+h2{font-size: 1.1rem;}
+div{font-size: 0.6rem; color: lightgrey;}
+p{font-size: 0.8rem; color: lightgrey;}
+
+canvas{
+    border: 0.3rem solid grey;
+    margin: 0.5rem auto; 
+}
+
+/* DELETE THIS AFTER ASSIGNMENT IS COMPLETE   :   */
+ .instruct{
+     text-align: left; 
+     font-size: 18px;
+     font-family: helveticaneue-light,sans-serif; 
+     max-width: 1000px; 
+     margin: 0 auto;
+     line-height: 1.1rem;
+     padding: 0 1.5rem;
+ }
+/* --------------- */
+
